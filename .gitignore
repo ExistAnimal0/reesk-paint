@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Runtime artifacts
+server.log
+out.png
+ui_shot.png
+
+# Scratch
+_cred.ps1
