@@ -2,10 +2,18 @@
 
 A minimal paint app with a JSON API. Draw in the browser, or drive it programmatically.
 
+## Repo
+
+https://github.com/ExistAnimal0/reesk-paint
+
+```
+git clone https://github.com/ExistAnimal0/reesk-paint.git
+```
+
 ## Run
 
 ```
-cd c:\projects\paint_app
+pip install -r requirements.txt
 python app.py
 ```
 
